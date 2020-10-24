@@ -1,0 +1,39 @@
+
+.home__image{
+    width: 100%;
+    margin: auto;
+    height: 750px;
+    position: relative;
+}
+
+@media (max-width: 360px) and (max-height: 640px) {
+    .home__image{
+        width: 100%;
+        height: 400px;
+        margin: auto;
+        position: relative;
+    }
+}
+
+.main__text{
+    color: #CE7E5A;
+}
+
+.break__line{
+    width: 25%;
+    margin-left: 0;
+    background-color: #CE7E5A;
+}
+
+.about__section{
+    background-color: #371E09;
+    color: #fff;
+    display: flex;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.second__column{
+    margin-top: 20px;
+}
+

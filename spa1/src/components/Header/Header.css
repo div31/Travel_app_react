@@ -1,0 +1,21 @@
+.header__logo{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Lobster Two', cursive;
+    color: white !important;
+}
+
+.header__nav{
+    font-weight: 600;
+    font-size: 20px;
+    color: white !important;
+    z-index: 1;
+}
+
+.nav__black{
+    background-color: #CE7E5A;
+}
+
+.container{
+    width: 100%
+}

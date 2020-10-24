@@ -1,0 +1,15 @@
+.pop__img{
+    height: 300px;
+    width: 100%;
+    margin: auto;
+    position: relative;
+    border-radius: 7px;
+}
+
+
+
+.card__text{
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+}
